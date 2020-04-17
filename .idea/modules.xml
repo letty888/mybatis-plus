@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itcast-mp-generator/itcast-mp-generator.iml" filepath="$PROJECT_DIR$/itcast-mp-generator/itcast-mp-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-mp-springboot/itcast-mp-springboot.iml" filepath="$PROJECT_DIR$/itcast-mp-springboot/itcast-mp-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-mybatis-plus/itcast-mybatis-plus.iml" filepath="$PROJECT_DIR$/itcast-mybatis-plus/itcast-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-mybatis-plus/itcast-mybatis-plus-simple/itcast-mybatis-plus-simple.iml" filepath="$PROJECT_DIR$/itcast-mybatis-plus/itcast-mybatis-plus-simple/itcast-mybatis-plus-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-mybatis-plus/itcast-mybatis-plus-spring/itcast-mybatis-plus-spring.iml" filepath="$PROJECT_DIR$/itcast-mybatis-plus/itcast-mybatis-plus-spring/itcast-mybatis-plus-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mybatis-plus.iml" filepath="$PROJECT_DIR$/.idea/mybatis-plus.iml" />
+    </modules>
+  </component>
+</project>
